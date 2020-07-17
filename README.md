@@ -2,8 +2,8 @@
 
 # 🔭 I’m currently working on ... 
 - Finance Domain product, specifically on Wallet.
-- Involved in end to end Design and Development of Applications.
-- Playing the role of Backend Lead Developer with DBS
+- Involved in end to end Design and Development of Backend Applications.
+- Playing the role of Backend Lead Developer with DBS.
 <!--
 **himkak/himkak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
