@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hi there 👋 .... work in progress
 
+# 🔭 I’m currently working on ... 
+- Finance Domain product, specifically on Wallet.
+- Involved in end to end Design and Development of Applications.
+- Playing the role of Backend Lead Developer with DBS
 <!--
 **himkak/himkak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
