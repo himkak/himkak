@@ -1,9 +1,10 @@
 ### Hi there 👋 .... work in progress
 
 # 🔭 I’m currently working on ... 
+- Search Domain
+# Prior Exp
 - Finance Domain product, specifically on Wallet.
 - Involved in end to end Design and Development of Backend Applications.
-- Playing the role of Backend Lead Developer with DBS.
 
 - Currently working on System designs : https://github.com/himkak/notes/tree/master/SystemDesign 
 Feel free to comment or contribute
